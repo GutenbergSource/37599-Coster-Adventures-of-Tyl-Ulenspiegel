@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>The Legend of the Glorious Adventures of Tyl Ulenspiegel in the Land of Flanders &amp; Elsewhere</dc:title>
+      <dc:creator>Charles de Coster (1827–1879)</dc:creator>
+      <dc:creator>Albert Delstanche (1870–1941)</dc:creator>
+      <dc:creator>Geoffrey Arundel Whitworth (1883–1951)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2011-10-03</dc:publisher>
+      <dc:date>2011-10-03</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+Scans for this work are available in the Internet Archive. (US edition, copy 1, 2, 3, 4; UK edition, copy 1.)
+
+</dc:rights>
+      <dc:subject>Eulenspiegel</dc:subject>
+      <dc:subject>Ulenspiegel</dc:subject>
+      <dc:subject>Eulenspiegel (Satire) --Legends</dc:subject>
+      <dc:description>Charles de Coster’s “The Legend of the Glorious Adventures of Tyl Ulenspiegel” first appeared in (in French) 1867, and is considered his masterpiece. This 16th-century romance on which he spend ten years wasn’t well-received in his motherland. However, it was translated in many languages and became popular outside Belgium. This translation is abbreviated to about the half of the length of the original. A full English translation was prepared a few years later, in 1922, by F. M. Atkinson.</dc:description>
+      <dc:identifier>pg:37599</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
